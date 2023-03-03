@@ -1,0 +1,26 @@
+.corpo {
+    margin:0;
+}
+.card {
+    height: fit-content;
+    width: 500px;
+    background-color: rgb(19, 80, 133);
+    border-radius: 25px;
+    border: solid 5px #8a1f1f;
+}
+.boxImage {
+    width: 100px;
+    height:100px;
+    background-color:rgb(66, 223, 66);
+    border: 1px solid rgb(66, 223, 66);
+    border-radius: 50px;
+}
+.estiloH1 {
+    font-family: monospace, sans-serif;
+    font-size: 30px;
+}
+.mensagem {
+    color:rgb(183, 0, 255);
+    font-style: italic;
+    font-weight: 800;
+}
